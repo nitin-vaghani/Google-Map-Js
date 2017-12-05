@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>A To B Exp</name>
+    <Style id="line-000000-1200-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-000000-1200-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-000000-1200">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-1200-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-1200-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>SC
+</name>
+      <description>test</description>
+      <styleUrl>#line-000000-1200</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          72.5798035,23.0241319,0
+          72.7576447,22.9185554,0
+          72.7981567,22.8761752,0
+          72.8695679,22.7312237,0
+          72.9320526,22.6456999,0
+          73.0357361,22.5436351,0
+          73.0721283,22.4852785,0
+          73.0872345,22.4808373,0
+          73.0995941,22.4808373,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
