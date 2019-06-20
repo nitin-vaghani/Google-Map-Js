@@ -4,7 +4,7 @@
         <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
         <meta charset="UTF-8">
         <title>Drawing Tools</title>
-        <script type="text/javascript"  src="http://maps.google.com/maps/api/js?sensor=false&key=AIzaSyDLP3AvJLqSmBujhoI_1Mg6Hvtd1RiuVsc&libraries=drawing"></script>
+        <script type="text/javascript"  src="http://maps.google.com/maps/api/js?sensor=false&libraries=drawing"></script>
         <style type="text/css">
             #map, html, body {
                 padding: 0;
