@@ -2,7 +2,7 @@
 <html>
     <head>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDLP3AvJLqSmBujhoI_1Mg6Hvtd1RiuVsc&libraries=places" async defer></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=KEY&libraries=places" async defer></script>
     </head>
     <body>
         <h2>This is multiple autocomplete google API demo in same page</h2>
