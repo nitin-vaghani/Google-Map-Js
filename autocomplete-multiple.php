@@ -24,7 +24,7 @@
             var inputs = document.getElementsByClassName('autocomplete');
 
             var options = {
-                types: ['geocode'],
+                //types: ['geocode'],
             };
 
             var autocompletes = [];
